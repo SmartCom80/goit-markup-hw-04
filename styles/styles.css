@@ -124,6 +124,7 @@ img {
 /*Header Contacts */
 .contacts {
     display:flex;
+    
     margin-left: auto;
 }
 
